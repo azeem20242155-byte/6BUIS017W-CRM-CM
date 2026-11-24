@@ -1,0 +1,504 @@
+Symbol,Yahoo_Ticker,Security,GICS Sector,Missing_Weekly_Prices,Decision,Reason
+MMM,MMM,3M,Industrials,0,Included,Full weekly coverage and all five features
+AOS,AOS,A. O. Smith,Industrials,0,Included,Full weekly coverage and all five features
+ABT,ABT,Abbott Laboratories,Health Care,0,Included,Full weekly coverage and all five features
+ABBV,ABBV,AbbVie,Health Care,0,Included,Full weekly coverage and all five features
+ACN,ACN,Accenture,Information Technology,0,Included,Full weekly coverage and all five features
+ADBE,ADBE,Adobe Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+AMD,AMD,Advanced Micro Devices,Information Technology,0,Included,Full weekly coverage and all five features
+AES,AES,AES Corporation,Utilities,0,Included,Full weekly coverage and all five features
+AFL,AFL,Aflac,Financials,0,Included,Full weekly coverage and all five features
+A,A,Agilent Technologies,Health Care,0,Included,Full weekly coverage and all five features
+APD,APD,Air Products,Materials,0,Included,Full weekly coverage and all five features
+ABNB,ABNB,Airbnb,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+AKAM,AKAM,Akamai Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+ALB,ALB,Albemarle Corporation,Materials,0,Included,Full weekly coverage and all five features
+ARE,ARE,Alexandria Real Estate Equities,Real Estate,0,Included,Full weekly coverage and all five features
+ALGN,ALGN,Align Technology,Health Care,0,Included,Full weekly coverage and all five features
+ALLE,ALLE,Allegion,Industrials,0,Included,Full weekly coverage and all five features
+LNT,LNT,Alliant Energy,Utilities,0,Included,Full weekly coverage and all five features
+ALL,ALL,Allstate,Financials,0,Included,Full weekly coverage and all five features
+GOOGL,GOOGL,Alphabet Inc. (Class A),Communication Services,0,Included,Full weekly coverage and all five features
+GOOG,GOOG,Alphabet Inc. (Class C),Communication Services,0,Included,Full weekly coverage and all five features
+MO,MO,Altria,Consumer Staples,0,Included,Full weekly coverage and all five features
+AMZN,AMZN,Amazon,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+AMCR,AMCR,Amcor,Materials,0,Included,Full weekly coverage and all five features
+AEE,AEE,Ameren,Utilities,0,Included,Full weekly coverage and all five features
+AEP,AEP,American Electric Power,Utilities,0,Included,Full weekly coverage and all five features
+AXP,AXP,American Express,Financials,0,Included,Full weekly coverage and all five features
+AIG,AIG,American International Group,Financials,0,Included,Full weekly coverage and all five features
+AMT,AMT,American Tower,Real Estate,0,Included,Full weekly coverage and all five features
+AWK,AWK,American Water Works,Utilities,0,Included,Full weekly coverage and all five features
+AMP,AMP,Ameriprise Financial,Financials,0,Included,Full weekly coverage and all five features
+AME,AME,Ametek,Industrials,0,Included,Full weekly coverage and all five features
+AMGN,AMGN,Amgen,Health Care,0,Included,Full weekly coverage and all five features
+APH,APH,Amphenol,Information Technology,0,Included,Full weekly coverage and all five features
+ADI,ADI,Analog Devices,Information Technology,0,Included,Full weekly coverage and all five features
+AON,AON,Aon plc,Financials,0,Included,Full weekly coverage and all five features
+APA,APA,APA Corporation,Energy,0,Included,Full weekly coverage and all five features
+APO,APO,Apollo Global Management,Financials,0,Included,Full weekly coverage and all five features
+AAPL,AAPL,Apple Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+AMAT,AMAT,Applied Materials,Information Technology,0,Included,Full weekly coverage and all five features
+APP,APP,AppLovin,Communication Services,14,Excluded,Incomplete coverage of the retained study weeks
+APTV,APTV,Aptiv,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+ACGL,ACGL,Arch Capital Group,Financials,0,Included,Full weekly coverage and all five features
+ADM,ADM,Archer Daniels Midland,Consumer Staples,0,Included,Full weekly coverage and all five features
+ARES,ARES,Ares Management,Financials,0,Included,Full weekly coverage and all five features
+ANET,ANET,Arista Networks,Information Technology,0,Included,Full weekly coverage and all five features
+AJG,AJG,Arthur J. Gallagher & Co.,Financials,0,Included,Full weekly coverage and all five features
+AIZ,AIZ,Assurant,Financials,0,Included,Full weekly coverage and all five features
+T,T,AT&T,Communication Services,0,Included,Full weekly coverage and all five features
+ATO,ATO,Atmos Energy,Utilities,0,Included,Full weekly coverage and all five features
+ADSK,ADSK,Autodesk,Information Technology,0,Included,Full weekly coverage and all five features
+ADP,ADP,Automatic Data Processing,Industrials,0,Included,Full weekly coverage and all five features
+AZO,AZO,AutoZone,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+AVY,AVY,Avery Dennison,Materials,0,Included,Full weekly coverage and all five features
+AXON,AXON,Axon Enterprise,Industrials,0,Included,Full weekly coverage and all five features
+BKR,BKR,Baker Hughes,Energy,0,Included,Full weekly coverage and all five features
+BALL,BALL,Ball Corporation,Materials,0,Included,Full weekly coverage and all five features
+BAC,BAC,Bank of America,Financials,0,Included,Full weekly coverage and all five features
+BAX,BAX,Baxter International,Health Care,0,Included,Full weekly coverage and all five features
+BDX,BDX,Becton Dickinson,Health Care,0,Included,Full weekly coverage and all five features
+BRK.B,BRK-B,Berkshire Hathaway,Financials,0,Included,Full weekly coverage and all five features
+BBY,BBY,Best Buy,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+TECH,TECH,Bio-Techne,Health Care,0,Included,Full weekly coverage and all five features
+BIIB,BIIB,Biogen,Health Care,0,Included,Full weekly coverage and all five features
+BLK,BLK,BlackRock,Financials,0,Included,Full weekly coverage and all five features
+BX,BX,Blackstone Inc.,Financials,0,Included,Full weekly coverage and all five features
+XYZ,XYZ,"Block, Inc.",Financials,0,Included,Full weekly coverage and all five features
+BE,BE,Bloom Energy,Industrials,0,Included,Full weekly coverage and all five features
+BNY,BNY,BNY Mellon,Financials,0,Included,Full weekly coverage and all five features
+BA,BA,Boeing,Industrials,0,Included,Full weekly coverage and all five features
+BKNG,BKNG,Booking Holdings,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+BSX,BSX,Boston Scientific,Health Care,0,Included,Full weekly coverage and all five features
+BMY,BMY,Bristol Myers Squibb,Health Care,0,Included,Full weekly coverage and all five features
+AVGO,AVGO,Broadcom,Information Technology,0,Included,Full weekly coverage and all five features
+BR,BR,Broadridge Financial Solutions,Industrials,0,Included,Full weekly coverage and all five features
+BRO,BRO,Brown & Brown,Financials,0,Included,Full weekly coverage and all five features
+BF.B,BF-B,Brown–Forman,Consumer Staples,0,Included,Full weekly coverage and all five features
+BG,BG,Bunge Global,Consumer Staples,0,Included,Full weekly coverage and all five features
+BXP,BXP,"BXP, Inc.",Real Estate,0,Included,Full weekly coverage and all five features
+CHRW,CHRW,C.H. Robinson,Industrials,0,Included,Full weekly coverage and all five features
+CDNS,CDNS,Cadence Design Systems,Information Technology,0,Included,Full weekly coverage and all five features
+CPT,CPT,Camden Property Trust,Real Estate,0,Included,Full weekly coverage and all five features
+COF,COF,Capital One,Financials,0,Included,Full weekly coverage and all five features
+CAH,CAH,Cardinal Health,Health Care,0,Included,Full weekly coverage and all five features
+CCL,CCL,Carnival Corporation,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+CARR,CARR,Carrier Global,Industrials,0,Included,Full weekly coverage and all five features
+CVNA,CVNA,Carvana,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+CASY,CASY,Casey's,Consumer Staples,0,Included,Full weekly coverage and all five features
+CAT,CAT,Caterpillar Inc.,Industrials,0,Included,Full weekly coverage and all five features
+CBOE,CBOE,Cboe Global Markets,Financials,0,Included,Full weekly coverage and all five features
+CBRE,CBRE,CBRE Group,Real Estate,0,Included,Full weekly coverage and all five features
+CDW,CDW,CDW Corporation,Information Technology,0,Included,Full weekly coverage and all five features
+COR,COR,Cencora,Health Care,0,Included,Full weekly coverage and all five features
+CNC,CNC,Centene Corporation,Health Care,0,Included,Full weekly coverage and all five features
+CNP,CNP,CenterPoint Energy,Utilities,0,Included,Full weekly coverage and all five features
+CF,CF,CF Industries,Materials,0,Included,Full weekly coverage and all five features
+CRL,CRL,Charles River Laboratories,Health Care,0,Included,Full weekly coverage and all five features
+SCHW,SCHW,Charles Schwab Corporation,Financials,0,Included,Full weekly coverage and all five features
+CHTR,CHTR,Charter Communications,Communication Services,0,Included,Full weekly coverage and all five features
+CVX,CVX,Chevron Corporation,Energy,0,Included,Full weekly coverage and all five features
+CMG,CMG,Chipotle Mexican Grill,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+CB,CB,Chubb Limited,Financials,0,Included,Full weekly coverage and all five features
+CHD,CHD,Church & Dwight,Consumer Staples,0,Included,Full weekly coverage and all five features
+CIEN,CIEN,Ciena,Information Technology,0,Included,Full weekly coverage and all five features
+CI,CI,Cigna,Health Care,0,Included,Full weekly coverage and all five features
+CINF,CINF,Cincinnati Financial,Financials,0,Included,Full weekly coverage and all five features
+CTAS,CTAS,Cintas,Industrials,0,Included,Full weekly coverage and all five features
+CSCO,CSCO,Cisco,Information Technology,0,Included,Full weekly coverage and all five features
+C,C,Citigroup,Financials,0,Included,Full weekly coverage and all five features
+CFG,CFG,Citizens Financial Group,Financials,0,Included,Full weekly coverage and all five features
+CLX,CLX,Clorox,Consumer Staples,0,Included,Full weekly coverage and all five features
+CME,CME,CME Group,Financials,0,Included,Full weekly coverage and all five features
+CMS,CMS,CMS Energy,Utilities,0,Included,Full weekly coverage and all five features
+KO,KO,Coca-Cola Company (The),Consumer Staples,0,Included,Full weekly coverage and all five features
+CTSH,CTSH,Cognizant,Information Technology,0,Included,Full weekly coverage and all five features
+COHR,COHR,Coherent Corp.,Information Technology,0,Included,Full weekly coverage and all five features
+COIN,COIN,Coinbase,Financials,14,Excluded,Incomplete coverage of the retained study weeks
+CL,CL,Colgate-Palmolive,Consumer Staples,0,Included,Full weekly coverage and all five features
+CMCSA,CMCSA,Comcast,Communication Services,0,Included,Full weekly coverage and all five features
+FIX,FIX,Comfort Systems USA,Industrials,0,Included,Full weekly coverage and all five features
+COP,COP,ConocoPhillips,Energy,0,Included,Full weekly coverage and all five features
+ED,ED,Consolidated Edison,Utilities,0,Included,Full weekly coverage and all five features
+STZ,STZ,Constellation Brands,Consumer Staples,0,Included,Full weekly coverage and all five features
+CEG,CEG,Constellation Energy,Utilities,54,Excluded,Incomplete coverage of the retained study weeks
+COO,COO,Cooper Companies (The),Health Care,0,Included,Full weekly coverage and all five features
+CPRT,CPRT,Copart,Industrials,0,Included,Full weekly coverage and all five features
+GLW,GLW,Corning Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+CPAY,CPAY,Corpay,Financials,0,Included,Full weekly coverage and all five features
+CSGP,CSGP,CoStar Group,Real Estate,0,Included,Full weekly coverage and all five features
+COST,COST,Costco,Consumer Staples,0,Included,Full weekly coverage and all five features
+CRH,CRH,CRH plc,Materials,0,Included,Full weekly coverage and all five features
+CRWD,CRWD,CrowdStrike,Information Technology,0,Included,Full weekly coverage and all five features
+CCI,CCI,Crown Castle,Real Estate,0,Included,Full weekly coverage and all five features
+CSX,CSX,CSX Corporation,Industrials,0,Included,Full weekly coverage and all five features
+CMI,CMI,Cummins,Industrials,0,Included,Full weekly coverage and all five features
+CVS,CVS,CVS Health,Health Care,0,Included,Full weekly coverage and all five features
+DHR,DHR,Danaher Corporation,Health Care,0,Included,Full weekly coverage and all five features
+DRI,DRI,Darden Restaurants,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+DDOG,DDOG,Datadog,Information Technology,0,Included,Full weekly coverage and all five features
+DVA,DVA,DaVita,Health Care,0,Included,Full weekly coverage and all five features
+DECK,DECK,Deckers Brands,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+DE,DE,Deere & Company,Industrials,0,Included,Full weekly coverage and all five features
+DELL,DELL,Dell Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+DAL,DAL,Delta Air Lines,Industrials,0,Included,Full weekly coverage and all five features
+DVN,DVN,Devon Energy,Energy,0,Included,Full weekly coverage and all five features
+DXCM,DXCM,Dexcom,Health Care,0,Included,Full weekly coverage and all five features
+FANG,FANG,Diamondback Energy,Energy,0,Included,Full weekly coverage and all five features
+DLR,DLR,Digital Realty,Real Estate,0,Included,Full weekly coverage and all five features
+DG,DG,Dollar General,Consumer Staples,0,Included,Full weekly coverage and all five features
+DLTR,DLTR,Dollar Tree,Consumer Staples,0,Included,Full weekly coverage and all five features
+D,D,Dominion Energy,Utilities,0,Included,Full weekly coverage and all five features
+DPZ,DPZ,Domino's,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+DASH,DASH,DoorDash,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+DOV,DOV,Dover Corporation,Industrials,0,Included,Full weekly coverage and all five features
+DOW,DOW,Dow Inc.,Materials,0,Included,Full weekly coverage and all five features
+DHI,DHI,D. R. Horton,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+DTE,DTE,DTE Energy,Utilities,0,Included,Full weekly coverage and all five features
+DUK,DUK,Duke Energy,Utilities,0,Included,Full weekly coverage and all five features
+DD,DD,DuPont,Industrials,0,Included,Full weekly coverage and all five features
+ETN,ETN,Eaton Corporation,Industrials,0,Included,Full weekly coverage and all five features
+EBAY,EBAY,eBay Inc.,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+ECHO,ECHO,EchoStar,Communication Services,0,Included,Full weekly coverage and all five features
+ECL,ECL,Ecolab,Materials,0,Included,Full weekly coverage and all five features
+EIX,EIX,Edison International,Utilities,0,Included,Full weekly coverage and all five features
+EW,EW,Edwards Lifesciences,Health Care,0,Included,Full weekly coverage and all five features
+ELV,ELV,Elevance Health,Health Care,0,Included,Full weekly coverage and all five features
+EME,EME,Emcor,Industrials,0,Included,Full weekly coverage and all five features
+EMR,EMR,Emerson Electric,Industrials,0,Included,Full weekly coverage and all five features
+ETR,ETR,Entergy,Utilities,0,Included,Full weekly coverage and all five features
+EOG,EOG,EOG Resources,Energy,0,Included,Full weekly coverage and all five features
+EQT,EQT,EQT Corporation,Energy,0,Included,Full weekly coverage and all five features
+EFX,EFX,Equifax,Industrials,0,Included,Full weekly coverage and all five features
+EQIX,EQIX,Equinix,Real Estate,0,Included,Full weekly coverage and all five features
+ERIE,ERIE,Erie Indemnity,Financials,0,Included,Full weekly coverage and all five features
+ESS,ESS,Essex Property Trust,Real Estate,0,Included,Full weekly coverage and all five features
+EL,EL,Estée Lauder Companies (The),Consumer Staples,0,Included,Full weekly coverage and all five features
+EG,EG,Everest Group,Financials,0,Included,Full weekly coverage and all five features
+EVRG,EVRG,Evergy,Utilities,0,Included,Full weekly coverage and all five features
+P,P,Everpure,Information Technology,0,Included,Full weekly coverage and all five features
+ES,ES,Eversource Energy,Utilities,0,Included,Full weekly coverage and all five features
+EXC,EXC,Exelon,Utilities,0,Included,Full weekly coverage and all five features
+EXE,EXE,Expand Energy,Energy,5,Excluded,Incomplete coverage of the retained study weeks
+EXPE,EXPE,Expedia Group,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+EXPD,EXPD,Expeditors International,Industrials,0,Included,Full weekly coverage and all five features
+EXR,EXR,Extra Space Storage,Real Estate,0,Included,Full weekly coverage and all five features
+XOM,XOM,ExxonMobil,Energy,0,Included,Full weekly coverage and all five features
+FFIV,FFIV,"F5, Inc.",Information Technology,0,Included,Full weekly coverage and all five features
+FDS,FDS,FactSet,Financials,0,Included,Full weekly coverage and all five features
+FICO,FICO,Fair Isaac,Information Technology,0,Included,Full weekly coverage and all five features
+FAST,FAST,Fastenal,Industrials,0,Included,Full weekly coverage and all five features
+FRT,FRT,Federal Realty Investment Trust,Real Estate,0,Included,Full weekly coverage and all five features
+FDX,FDX,FedEx,Industrials,0,Included,Full weekly coverage and all five features
+FDXF,FDXF,FedEx Freight,Industrials,,Excluded,No closing prices returned for the requested period
+FERG,FERG,Ferguson Enterprises,Industrials,0,Included,Full weekly coverage and all five features
+FIS,FIS,Fidelity National Information Services,Financials,0,Included,Full weekly coverage and all five features
+FITB,FITB,Fifth Third Bancorp,Financials,0,Included,Full weekly coverage and all five features
+FSLR,FSLR,First Solar,Information Technology,0,Included,Full weekly coverage and all five features
+FE,FE,FirstEnergy,Utilities,0,Included,Full weekly coverage and all five features
+FISV,FISV,Fiserv,Financials,0,Included,Full weekly coverage and all five features
+FLEX,FLEX,Flex Ltd.,Information Technology,0,Included,Full weekly coverage and all five features
+F,F,Ford Motor Company,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+FTNT,FTNT,Fortinet,Information Technology,0,Included,Full weekly coverage and all five features
+FTV,FTV,Fortive,Industrials,0,Included,Full weekly coverage and all five features
+FOXA,FOXA,Fox Corporation (Class A),Communication Services,0,Included,Full weekly coverage and all five features
+FOX,FOX,Fox Corporation (Class B),Communication Services,0,Included,Full weekly coverage and all five features
+BEN,BEN,Franklin Resources,Financials,0,Included,Full weekly coverage and all five features
+FCX,FCX,Freeport-McMoRan,Materials,0,Included,Full weekly coverage and all five features
+GRMN,GRMN,Garmin,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+IT,IT,Gartner,Information Technology,0,Included,Full weekly coverage and all five features
+GE,GE,GE Aerospace,Industrials,0,Included,Full weekly coverage and all five features
+GEHC,GEHC,GE HealthCare,Health Care,101,Excluded,Incomplete coverage of the retained study weeks
+GEV,GEV,GE Vernova,Industrials,168,Excluded,Incomplete coverage of the retained study weeks
+GEN,GEN,Gen Digital,Information Technology,0,Included,Full weekly coverage and all five features
+GNRC,GNRC,Generac,Industrials,0,Included,Full weekly coverage and all five features
+GD,GD,General Dynamics,Industrials,0,Included,Full weekly coverage and all five features
+GIS,GIS,General Mills,Consumer Staples,0,Included,Full weekly coverage and all five features
+GM,GM,General Motors,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+GPC,GPC,Genuine Parts Company,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+GILD,GILD,Gilead Sciences,Health Care,0,Included,Full weekly coverage and all five features
+GPN,GPN,Global Payments,Financials,0,Included,Full weekly coverage and all five features
+GL,GL,Globe Life,Financials,0,Included,Full weekly coverage and all five features
+GDDY,GDDY,GoDaddy,Information Technology,0,Included,Full weekly coverage and all five features
+GS,GS,Goldman Sachs,Financials,0,Included,Full weekly coverage and all five features
+HAL,HAL,Halliburton,Energy,0,Included,Full weekly coverage and all five features
+HIG,HIG,Hartford (The),Financials,0,Included,Full weekly coverage and all five features
+HAS,HAS,Hasbro,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+HCA,HCA,HCA Healthcare,Health Care,0,Included,Full weekly coverage and all five features
+DOC,DOC,Healthpeak Properties,Real Estate,0,Included,Full weekly coverage and all five features
+HSIC,HSIC,Henry Schein,Health Care,0,Included,Full weekly coverage and all five features
+HSY,HSY,Hershey Company (The),Consumer Staples,0,Included,Full weekly coverage and all five features
+HPE,HPE,Hewlett Packard Enterprise,Information Technology,0,Included,Full weekly coverage and all five features
+HLT,HLT,Hilton Worldwide,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+HD,HD,Home Depot (The),Consumer Discretionary,0,Included,Full weekly coverage and all five features
+HONA,HONA,Honeywell Aerospace,Industrials,,Excluded,No closing prices returned for the requested period
+HON,HON,Honeywell Technologies,Industrials,0,Included,Full weekly coverage and all five features
+HRL,HRL,Hormel Foods,Consumer Staples,0,Included,Full weekly coverage and all five features
+HST,HST,Host Hotels & Resorts,Real Estate,0,Included,Full weekly coverage and all five features
+HWM,HWM,Howmet Aerospace,Industrials,0,Included,Full weekly coverage and all five features
+HPQ,HPQ,HP Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+HUBB,HUBB,Hubbell Incorporated,Industrials,0,Included,Full weekly coverage and all five features
+HUM,HUM,Humana,Health Care,0,Included,Full weekly coverage and all five features
+HBAN,HBAN,Huntington Bancshares,Financials,0,Included,Full weekly coverage and all five features
+HII,HII,Huntington Ingalls Industries,Industrials,0,Included,Full weekly coverage and all five features
+IBM,IBM,IBM,Information Technology,0,Included,Full weekly coverage and all five features
+IEX,IEX,IDEX Corporation,Industrials,0,Included,Full weekly coverage and all five features
+IDXX,IDXX,Idexx Laboratories,Health Care,0,Included,Full weekly coverage and all five features
+ITW,ITW,Illinois Tool Works,Industrials,0,Included,Full weekly coverage and all five features
+ILMN,ILMN,"Illumina, Inc.",Health Care,0,Included,Full weekly coverage and all five features
+INCY,INCY,Incyte,Health Care,0,Included,Full weekly coverage and all five features
+IR,IR,Ingersoll Rand,Industrials,0,Included,Full weekly coverage and all five features
+PODD,PODD,Insulet Corporation,Health Care,0,Included,Full weekly coverage and all five features
+INTC,INTC,Intel,Information Technology,0,Included,Full weekly coverage and all five features
+IBKR,IBKR,Interactive Brokers,Financials,0,Included,Full weekly coverage and all five features
+ICE,ICE,Intercontinental Exchange,Financials,0,Included,Full weekly coverage and all five features
+IFF,IFF,International Flavors & Fragrances,Materials,0,Included,Full weekly coverage and all five features
+IP,IP,International Paper,Materials,0,Included,Full weekly coverage and all five features
+INTU,INTU,Intuit,Information Technology,0,Included,Full weekly coverage and all five features
+ISRG,ISRG,Intuitive Surgical,Health Care,0,Included,Full weekly coverage and all five features
+IVZ,IVZ,Invesco,Financials,0,Included,Full weekly coverage and all five features
+INVH,INVH,Invitation Homes,Real Estate,0,Included,Full weekly coverage and all five features
+IQV,IQV,IQVIA,Health Care,0,Included,Full weekly coverage and all five features
+IRM,IRM,Iron Mountain,Real Estate,0,Included,Full weekly coverage and all five features
+JBHT,JBHT,J.B. Hunt,Industrials,0,Included,Full weekly coverage and all five features
+JBL,JBL,Jabil,Information Technology,0,Included,Full weekly coverage and all five features
+JKHY,JKHY,Jack Henry & Associates,Financials,0,Included,Full weekly coverage and all five features
+J,J,Jacobs Solutions,Industrials,0,Included,Full weekly coverage and all five features
+JNJ,JNJ,Johnson & Johnson,Health Care,0,Included,Full weekly coverage and all five features
+JCI,JCI,Johnson Controls,Industrials,0,Included,Full weekly coverage and all five features
+JPM,JPM,JPMorgan Chase,Financials,0,Included,Full weekly coverage and all five features
+KDP,KDP,Keurig Dr Pepper,Consumer Staples,0,Included,Full weekly coverage and all five features
+KEY,KEY,KeyCorp,Financials,0,Included,Full weekly coverage and all five features
+KEYS,KEYS,Keysight Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+KMB,KMB,Kimberly-Clark,Consumer Staples,0,Included,Full weekly coverage and all five features
+KIM,KIM,Kimco Realty,Real Estate,0,Included,Full weekly coverage and all five features
+KMI,KMI,Kinder Morgan,Energy,0,Included,Full weekly coverage and all five features
+KKR,KKR,KKR & Co.,Financials,0,Included,Full weekly coverage and all five features
+KLAC,KLAC,KLA Corporation,Information Technology,0,Included,Full weekly coverage and all five features
+KHC,KHC,Kraft Heinz,Consumer Staples,0,Included,Full weekly coverage and all five features
+KR,KR,Kroger,Consumer Staples,0,Included,Full weekly coverage and all five features
+LHX,LHX,L3Harris,Industrials,0,Included,Full weekly coverage and all five features
+LH,LH,Labcorp,Health Care,0,Included,Full weekly coverage and all five features
+LRCX,LRCX,Lam Research,Information Technology,0,Included,Full weekly coverage and all five features
+LVS,LVS,Las Vegas Sands,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+LDOS,LDOS,Leidos,Industrials,0,Included,Full weekly coverage and all five features
+LEN,LEN,Lennar,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+LII,LII,Lennox International,Industrials,0,Included,Full weekly coverage and all five features
+LLY,LLY,Lilly (Eli),Health Care,0,Included,Full weekly coverage and all five features
+LIN,LIN,Linde plc,Materials,0,Included,Full weekly coverage and all five features
+LYV,LYV,Live Nation Entertainment,Communication Services,0,Included,Full weekly coverage and all five features
+LMT,LMT,Lockheed Martin,Industrials,0,Included,Full weekly coverage and all five features
+L,L,Loews Corporation,Financials,0,Included,Full weekly coverage and all five features
+LOW,LOW,Lowe's,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+LULU,LULU,Lululemon Athletica,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+LITE,LITE,Lumentum,Information Technology,0,Included,Full weekly coverage and all five features
+LYB,LYB,LyondellBasell,Materials,0,Included,Full weekly coverage and all five features
+MTB,MTB,M&T Bank,Financials,0,Included,Full weekly coverage and all five features
+MPC,MPC,Marathon Petroleum,Energy,0,Included,Full weekly coverage and all five features
+MAR,MAR,Marriott International,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+MRSH,MRSH,Marsh McLennan,Financials,0,Included,Full weekly coverage and all five features
+MLM,MLM,Martin Marietta Materials,Materials,0,Included,Full weekly coverage and all five features
+MRVL,MRVL,Marvell Technology,Information Technology,0,Included,Full weekly coverage and all five features
+MAS,MAS,Masco,Industrials,0,Included,Full weekly coverage and all five features
+MA,MA,Mastercard,Financials,0,Included,Full weekly coverage and all five features
+MKC,MKC,McCormick & Company,Consumer Staples,0,Included,Full weekly coverage and all five features
+MCD,MCD,McDonald's,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+MCK,MCK,McKesson,Health Care,0,Included,Full weekly coverage and all five features
+MDT,MDT,Medtronic,Health Care,0,Included,Full weekly coverage and all five features
+MRK,MRK,Merck & Co.,Health Care,0,Included,Full weekly coverage and all five features
+META,META,Meta Platforms,Communication Services,0,Included,Full weekly coverage and all five features
+MET,MET,MetLife,Financials,0,Included,Full weekly coverage and all five features
+MTD,MTD,Mettler Toledo,Health Care,0,Included,Full weekly coverage and all five features
+MGM,MGM,MGM Resorts,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+MCHP,MCHP,Microchip Technology,Information Technology,0,Included,Full weekly coverage and all five features
+MU,MU,Micron Technology,Information Technology,0,Included,Full weekly coverage and all five features
+MSFT,MSFT,Microsoft,Information Technology,0,Included,Full weekly coverage and all five features
+MAA,MAA,Mid-America Apartment Communities,Real Estate,0,Included,Full weekly coverage and all five features
+MRNA,MRNA,Moderna,Health Care,0,Included,Full weekly coverage and all five features
+MDLZ,MDLZ,Mondelez International,Consumer Staples,0,Included,Full weekly coverage and all five features
+MPWR,MPWR,Monolithic Power Systems,Information Technology,0,Included,Full weekly coverage and all five features
+MNST,MNST,Monster Beverage,Consumer Staples,0,Included,Full weekly coverage and all five features
+MCO,MCO,Moody's Corporation,Financials,0,Included,Full weekly coverage and all five features
+MS,MS,Morgan Stanley,Financials,0,Included,Full weekly coverage and all five features
+MOS,MOS,Mosaic Company (The),Materials,0,Included,Full weekly coverage and all five features
+MSI,MSI,Motorola Solutions,Information Technology,0,Included,Full weekly coverage and all five features
+MSCI,MSCI,MSCI,Financials,0,Included,Full weekly coverage and all five features
+NDAQ,NDAQ,"Nasdaq, Inc.",Financials,0,Included,Full weekly coverage and all five features
+NTAP,NTAP,NetApp,Information Technology,0,Included,Full weekly coverage and all five features
+NFLX,NFLX,Netflix,Communication Services,0,Included,Full weekly coverage and all five features
+NEM,NEM,Newmont,Materials,0,Included,Full weekly coverage and all five features
+NWSA,NWSA,News Corp (Class A),Communication Services,0,Included,Full weekly coverage and all five features
+NWS,NWS,News Corp (Class B),Communication Services,0,Included,Full weekly coverage and all five features
+NEE,NEE,NextEra Energy,Utilities,0,Included,Full weekly coverage and all five features
+NKE,NKE,"Nike, Inc.",Consumer Discretionary,0,Included,Full weekly coverage and all five features
+NI,NI,NiSource,Utilities,0,Included,Full weekly coverage and all five features
+NDSN,NDSN,Nordson Corporation,Industrials,0,Included,Full weekly coverage and all five features
+NSC,NSC,Norfolk Southern,Industrials,0,Included,Full weekly coverage and all five features
+NTRS,NTRS,Northern Trust,Financials,0,Included,Full weekly coverage and all five features
+NOC,NOC,Northrop Grumman,Industrials,0,Included,Full weekly coverage and all five features
+NCLH,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+NRG,NRG,NRG Energy,Utilities,0,Included,Full weekly coverage and all five features
+NUE,NUE,Nucor,Materials,0,Included,Full weekly coverage and all five features
+NVDA,NVDA,Nvidia,Information Technology,0,Included,Full weekly coverage and all five features
+NVR,NVR,"NVR, Inc.",Consumer Discretionary,0,Included,Full weekly coverage and all five features
+NXPI,NXPI,NXP Semiconductors,Information Technology,0,Included,Full weekly coverage and all five features
+ORLY,ORLY,O'Reilly Automotive,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+OXY,OXY,Occidental Petroleum,Energy,0,Included,Full weekly coverage and all five features
+OKTA,OKTA,"Okta, Inc.",Information Technology,0,Included,Full weekly coverage and all five features
+ODFL,ODFL,Old Dominion,Industrials,0,Included,Full weekly coverage and all five features
+OMC,OMC,Omnicom Group,Communication Services,0,Included,Full weekly coverage and all five features
+ON,ON,ON Semiconductor,Information Technology,0,Included,Full weekly coverage and all five features
+OKE,OKE,Oneok,Energy,0,Included,Full weekly coverage and all five features
+ORCL,ORCL,Oracle Corporation,Information Technology,0,Included,Full weekly coverage and all five features
+OTIS,OTIS,Otis Worldwide,Industrials,0,Included,Full weekly coverage and all five features
+PCAR,PCAR,Paccar,Industrials,0,Included,Full weekly coverage and all five features
+PKG,PKG,Packaging Corporation of America,Materials,0,Included,Full weekly coverage and all five features
+PLTR,PLTR,Palantir Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+PANW,PANW,Palo Alto Networks,Information Technology,0,Included,Full weekly coverage and all five features
+PH,PH,Parker Hannifin,Industrials,0,Included,Full weekly coverage and all five features
+PAYX,PAYX,Paychex,Industrials,0,Included,Full weekly coverage and all five features
+PYPL,PYPL,PayPal,Financials,0,Included,Full weekly coverage and all five features
+PNR,PNR,Pentair,Industrials,0,Included,Full weekly coverage and all five features
+PEP,PEP,PepsiCo,Consumer Staples,0,Included,Full weekly coverage and all five features
+PFE,PFE,Pfizer,Health Care,0,Included,Full weekly coverage and all five features
+PCG,PCG,PG&E Corporation,Utilities,0,Included,Full weekly coverage and all five features
+PM,PM,Philip Morris International,Consumer Staples,0,Included,Full weekly coverage and all five features
+PSX,PSX,Phillips 66,Energy,0,Included,Full weekly coverage and all five features
+PNW,PNW,Pinnacle West Capital,Utilities,0,Included,Full weekly coverage and all five features
+PNC,PNC,PNC Financial Services,Financials,0,Included,Full weekly coverage and all five features
+PPG,PPG,PPG Industries,Materials,0,Included,Full weekly coverage and all five features
+PPL,PPL,PPL Corporation,Utilities,0,Included,Full weekly coverage and all five features
+PFG,PFG,Principal Financial Group,Financials,0,Included,Full weekly coverage and all five features
+PG,PG,Procter & Gamble,Consumer Staples,0,Included,Full weekly coverage and all five features
+PGR,PGR,Progressive Corporation,Financials,0,Included,Full weekly coverage and all five features
+PLD,PLD,Prologis,Real Estate,0,Included,Full weekly coverage and all five features
+PRU,PRU,Prudential Financial,Financials,0,Included,Full weekly coverage and all five features
+PTC,PTC,PTC Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+PEG,PEG,Public Service Enterprise Group,Utilities,0,Included,Full weekly coverage and all five features
+PSA,PSA,Public Storage,Real Estate,0,Included,Full weekly coverage and all five features
+PHM,PHM,PulteGroup,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+Q,Q,Qnity Electronics,Information Technology,,Excluded,No closing prices returned for the requested period
+QCOM,QCOM,Qualcomm,Information Technology,0,Included,Full weekly coverage and all five features
+PWR,PWR,Quanta Services,Industrials,0,Included,Full weekly coverage and all five features
+DGX,DGX,Quest Diagnostics,Health Care,0,Included,Full weekly coverage and all five features
+RL,RL,Ralph Lauren Corporation,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+RJF,RJF,Raymond James Financial,Financials,0,Included,Full weekly coverage and all five features
+RDDT,RDDT,Reddit,Communication Services,167,Excluded,Incomplete coverage of the retained study weeks
+O,O,Realty Income,Real Estate,0,Included,Full weekly coverage and all five features
+REG,REG,Regency Centers,Real Estate,0,Included,Full weekly coverage and all five features
+REGN,REGN,Regeneron Pharmaceuticals,Health Care,0,Included,Full weekly coverage and all five features
+RF,RF,Regions Financial Corporation,Financials,0,Included,Full weekly coverage and all five features
+RSG,RSG,Republic Services,Industrials,0,Included,Full weekly coverage and all five features
+RMD,RMD,ResMed,Health Care,0,Included,Full weekly coverage and all five features
+RVTY,RVTY,Revvity,Health Care,0,Included,Full weekly coverage and all five features
+HOOD,HOOD,Robinhood Markets,Financials,29,Excluded,Incomplete coverage of the retained study weeks
+ROK,ROK,Rockwell Automation,Industrials,0,Included,Full weekly coverage and all five features
+ROL,ROL,"Rollins, Inc.",Industrials,0,Included,Full weekly coverage and all five features
+ROP,ROP,Roper Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+ROST,ROST,Ross Stores,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+RCL,RCL,Royal Caribbean Group,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+RTX,RTX,RTX Corporation,Industrials,0,Included,Full weekly coverage and all five features
+SPGI,SPGI,S&P Global,Financials,0,Included,Full weekly coverage and all five features
+CRM,CRM,Salesforce,Information Technology,0,Included,Full weekly coverage and all five features
+SNDK,SNDK,Sandisk,Information Technology,,Excluded,No closing prices returned for the requested period
+SBAC,SBAC,SBA Communications,Real Estate,0,Included,Full weekly coverage and all five features
+SLB,SLB,Schlumberger,Energy,0,Included,Full weekly coverage and all five features
+STX,STX,Seagate Technology,Information Technology,0,Included,Full weekly coverage and all five features
+SRE,SRE,Sempra,Utilities,0,Included,Full weekly coverage and all five features
+NOW,NOW,ServiceNow,Information Technology,0,Included,Full weekly coverage and all five features
+SHW,SHW,Sherwin-Williams,Materials,0,Included,Full weekly coverage and all five features
+SPG,SPG,Simon Property Group,Real Estate,0,Included,Full weekly coverage and all five features
+SKYD,SKYD,Skydance,Communication Services,0,Included,Full weekly coverage and all five features
+SWKS,SWKS,Skyworks Solutions,Information Technology,0,Included,Full weekly coverage and all five features
+SJM,SJM,J.M. Smucker Company (The),Consumer Staples,0,Included,Full weekly coverage and all five features
+SW,SW,Smurfit Westrock,Materials,0,Included,Full weekly coverage and all five features
+SNA,SNA,Snap-on,Industrials,0,Included,Full weekly coverage and all five features
+SOLV,SOLV,Solventum,Health Care,168,Excluded,Incomplete coverage of the retained study weeks
+SO,SO,Southern Company,Utilities,0,Included,Full weekly coverage and all five features
+LUV,LUV,Southwest Airlines,Industrials,0,Included,Full weekly coverage and all five features
+SWK,SWK,Stanley Black & Decker,Industrials,0,Included,Full weekly coverage and all five features
+SBUX,SBUX,Starbucks,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+STT,STT,State Street Corporation,Financials,0,Included,Full weekly coverage and all five features
+STLD,STLD,Steel Dynamics,Materials,0,Included,Full weekly coverage and all five features
+STE,STE,Steris,Health Care,0,Included,Full weekly coverage and all five features
+SYK,SYK,Stryker Corporation,Health Care,0,Included,Full weekly coverage and all five features
+SMCI,SMCI,Supermicro,Information Technology,0,Included,Full weekly coverage and all five features
+SYF,SYF,Synchrony Financial,Financials,0,Included,Full weekly coverage and all five features
+SNPS,SNPS,Synopsys,Information Technology,0,Included,Full weekly coverage and all five features
+SYY,SYY,Sysco,Consumer Staples,0,Included,Full weekly coverage and all five features
+TMUS,TMUS,T-Mobile US,Communication Services,0,Included,Full weekly coverage and all five features
+TROW,TROW,T. Rowe Price,Financials,0,Included,Full weekly coverage and all five features
+TTWO,TTWO,Take-Two Interactive,Communication Services,0,Included,Full weekly coverage and all five features
+TPR,TPR,"Tapestry, Inc.",Consumer Discretionary,0,Included,Full weekly coverage and all five features
+TRGP,TRGP,Targa Resources,Energy,0,Included,Full weekly coverage and all five features
+TGT,TGT,Target Corporation,Consumer Staples,0,Included,Full weekly coverage and all five features
+TEL,TEL,TE Connectivity,Information Technology,0,Included,Full weekly coverage and all five features
+TDY,TDY,Teledyne Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+TER,TER,Teradyne,Information Technology,0,Included,Full weekly coverage and all five features
+TSLA,TSLA,"Tesla, Inc.",Consumer Discretionary,0,Included,Full weekly coverage and all five features
+TXN,TXN,Texas Instruments,Information Technology,0,Included,Full weekly coverage and all five features
+TPL,TPL,Texas Pacific Land Corporation,Energy,0,Included,Full weekly coverage and all five features
+TXT,TXT,Textron,Industrials,0,Included,Full weekly coverage and all five features
+TMO,TMO,Thermo Fisher Scientific,Health Care,0,Included,Full weekly coverage and all five features
+TJX,TJX,TJX Companies,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+TKO,TKO,TKO Group Holdings,Communication Services,0,Included,Full weekly coverage and all five features
+TSCO,TSCO,Tractor Supply,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+TT,TT,Trane Technologies,Industrials,0,Included,Full weekly coverage and all five features
+TDG,TDG,TransDigm Group,Industrials,0,Included,Full weekly coverage and all five features
+TRV,TRV,Travelers Companies (The),Financials,0,Included,Full weekly coverage and all five features
+TRMB,TRMB,Trimble Inc.,Information Technology,0,Included,Full weekly coverage and all five features
+TFC,TFC,Truist Financial,Financials,0,Included,Full weekly coverage and all five features
+TWLO,TWLO,Twilio,Information Technology,0,Included,Full weekly coverage and all five features
+TYL,TYL,Tyler Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+TSN,TSN,Tyson Foods,Consumer Staples,0,Included,Full weekly coverage and all five features
+USB,USB,U.S. Bancorp,Financials,0,Included,Full weekly coverage and all five features
+UBER,UBER,Uber,Industrials,0,Included,Full weekly coverage and all five features
+UDR,UDR,"UDR, Inc.",Real Estate,0,Included,Full weekly coverage and all five features
+ULTA,ULTA,Ulta Beauty,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+UNP,UNP,Union Pacific Corporation,Industrials,0,Included,Full weekly coverage and all five features
+UAL,UAL,United Airlines Holdings,Industrials,0,Included,Full weekly coverage and all five features
+UPS,UPS,United Parcel Service,Industrials,0,Included,Full weekly coverage and all five features
+URI,URI,United Rentals,Industrials,0,Included,Full weekly coverage and all five features
+UNH,UNH,UnitedHealth Group,Health Care,0,Included,Full weekly coverage and all five features
+UHS,UHS,Universal Health Services,Health Care,0,Included,Full weekly coverage and all five features
+VLO,VLO,Valero Energy,Energy,0,Included,Full weekly coverage and all five features
+VEEV,VEEV,Veeva Systems,Health Care,0,Included,Full weekly coverage and all five features
+VTR,VTR,Ventas,Real Estate,0,Included,Full weekly coverage and all five features
+VLTO,VLTO,Veralto,Industrials,143,Excluded,Incomplete coverage of the retained study weeks
+VRSN,VRSN,Verisign,Information Technology,0,Included,Full weekly coverage and all five features
+VRSK,VRSK,Verisk Analytics,Industrials,0,Included,Full weekly coverage and all five features
+VZ,VZ,Verizon,Communication Services,0,Included,Full weekly coverage and all five features
+VRTX,VRTX,Vertex Pharmaceuticals,Health Care,0,Included,Full weekly coverage and all five features
+VRT,VRT,Vertiv,Industrials,0,Included,Full weekly coverage and all five features
+VTRS,VTRS,Viatris,Health Care,0,Included,Full weekly coverage and all five features
+VICI,VICI,Vici Properties,Real Estate,0,Included,Full weekly coverage and all five features
+V,V,Visa Inc.,Financials,0,Included,Full weekly coverage and all five features
+VST,VST,Vistra Corp.,Utilities,0,Included,Full weekly coverage and all five features
+VMRK,VMRK,Vivmark Residential,Real Estate,0,Included,Full weekly coverage and all five features
+VMC,VMC,Vulcan Materials Company,Materials,0,Included,Full weekly coverage and all five features
+VYLR,VYLR,Vylor,Consumer Staples,,Excluded,No closing prices returned for the requested period
+WRB,WRB,W. R. Berkley Corporation,Financials,0,Included,Full weekly coverage and all five features
+GWW,GWW,W. W. Grainger,Industrials,0,Included,Full weekly coverage and all five features
+WAB,WAB,Wabtec,Industrials,0,Included,Full weekly coverage and all five features
+WMT,WMT,Walmart,Consumer Staples,0,Included,Full weekly coverage and all five features
+DIS,DIS,Walt Disney Company (The),Communication Services,0,Included,Full weekly coverage and all five features
+WM,WM,Waste Management,Industrials,0,Included,Full weekly coverage and all five features
+WAT,WAT,Waters Corporation,Health Care,0,Included,Full weekly coverage and all five features
+WEC,WEC,WEC Energy Group,Utilities,0,Included,Full weekly coverage and all five features
+WFC,WFC,Wells Fargo,Financials,0,Included,Full weekly coverage and all five features
+WELL,WELL,Welltower,Real Estate,0,Included,Full weekly coverage and all five features
+WST,WST,West Pharmaceutical Services,Health Care,0,Included,Full weekly coverage and all five features
+WDC,WDC,Western Digital,Information Technology,0,Included,Full weekly coverage and all five features
+WY,WY,Weyerhaeuser,Real Estate,0,Included,Full weekly coverage and all five features
+WSM,WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,0,Included,Full weekly coverage and all five features
+WMB,WMB,Williams Companies,Energy,0,Included,Full weekly coverage and all five features
+WTW,WTW,Willis Towers Watson,Financials,0,Included,Full weekly coverage and all five features
+WDAY,WDAY,"Workday, Inc.",Information Technology,0,Included,Full weekly coverage and all five features
+WYNN,WYNN,Wynn Resorts,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+XEL,XEL,Xcel Energy,Utilities,0,Included,Full weekly coverage and all five features
+XYL,XYL,Xylem Inc.,Industrials,0,Included,Full weekly coverage and all five features
+YUM,YUM,Yum! Brands,Consumer Discretionary,0,Included,Full weekly coverage and all five features
+ZBRA,ZBRA,Zebra Technologies,Information Technology,0,Included,Full weekly coverage and all five features
+ZBH,ZBH,Zimmer Biomet,Health Care,0,Included,Full weekly coverage and all five features
+ZTS,ZTS,Zoetis,Health Care,0,Included,Full weekly coverage and all five features
